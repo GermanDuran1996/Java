@@ -1,0 +1,76 @@
+{
+    "monedas": [
+        {
+            "_id": "201",
+            "marca": "dolar",
+            "nombre": "unDolar",
+            "modelo": "caragrande",
+            "color": "verde",
+            "foto": "https://imgur.com/W8QH9Vt",
+            "precio": 155
+        },
+        {
+            "_id": "202",
+            "marca": "dolar",
+            "nombre": "cincodolares",
+            "modelo": "caragrande",
+            "color": "verde",
+            "foto": "https://imgur.com/5CezUR2",
+            "precio": 1557
+        },    
+        {
+            "_id": "203",
+            "marca": "dolar",
+            "nombre": "cincuentadolares",
+            "modelo": "caragrande",
+            "color": "verde",
+            "foto": "https://imgur.com/q2ciImR",
+            "precio": 7785
+        },    
+        {
+            "_id": "204",
+            "marca": "dolar",
+            "nombre": "ciendolares",
+            "modelo": "caragrande",
+            "color": "verde",
+            "foto": "https://imgur.com/xx1xkfl",
+            "precio": 15570
+        },    
+        {
+            "_id": "205",
+            "marca": "Euro",
+            "nombre": "cincoEuros",
+            "modelo": "nuevo",
+            "color": "verde",
+            "foto": "https://imgur.com/l0lQhYF",
+            "precio": 775
+        },    
+        {
+            "_id": "206",
+            "marca": "Euro",
+            "nombre": "cieneuros",
+            "modelo": "nuevo",
+            "color": "verde",
+            "foto": "https://imgur.com/P2J1BKk",
+            "precio": 15519
+        },    
+        {
+            "_id": "207",
+            "marca": "euro",
+            "nombre": "docientoseuros",
+            "modelo": "nuevo",
+            "color": "amarillo",
+            "foto": "https://imgur.com/wKoNS6Y",
+            "precio": 31038
+        },    
+        {
+            "_id": "208",
+            "marca": "Euro",
+            "nombre": "quinientosEros",
+            "modelo": "nuevo",
+            "color": "violeta",
+            "foto": "https://imgur.com/Y9LWjrX",
+            "precio": 77595
+        }    
+    ]
+}
